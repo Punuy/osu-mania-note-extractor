@@ -1,5 +1,8 @@
 # osu!mania Notes Explanation
 
+## Todo
+- Support 1k - 18k
+
 ## Overview
 This Python program processes osu!mania `.osu` files by:
 - **Parsing hit objects** from the `[HitObjects]` section.
